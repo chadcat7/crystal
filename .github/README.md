@@ -29,7 +29,7 @@
 
 > [!note]
 >
-> I have written a [blog post](https://namishh.me/blog/nixos) on setting up Nixos. And for those who are interested in learning about ricing itself, I have a seperate blog post about is. Checkout the [Ricing Guide](https://namishh.me/blog/ricing/) (btw it also got featured in the official unixporn wiki).
+> I have written a [blog post](https://namishh.com/blog/nixos) on setting up Nixos. And for those who are interested in learning about ricing itself, I have a seperate blog post about is. Checkout the [Ricing Guide](https://namishh.com/blog/ricing/) (btw it also got featured in the official unixporn wiki).
 
 
 The "Textbook" Definition - A Linux distribution based on the Nix package manager and guided by Nix's core principles.
@@ -159,7 +159,7 @@ This is a very minimal dwm rice I made to quit ricing. This build mainly contain
 
 ## Credits
 These are the chads which helped me throughout my short but crazy nix journey!
-- [gw](https://github.com/Gwynsav)
+- [gw](https://github.com/sewergweller)
 - [javacafe](https://github.com/JavaCafe01/)
 - [f2k](https://github.com/fortuneteller2k/)
 - [apro](https://github.com/Aproxia-dev)
@@ -176,9 +176,9 @@ And of course credits for the guys for their help with my awesome config!
 
 People from who I have ~~stolen~~ taken inspiration for my design.
 
-- [tsukki](https://github.com/tsukki9696)
+- [tsukki](https://github.com/deceptionfalls)
 - [sammy](https://github.com/TorchedSammy)
 - [kizu](https://github.com/janleigh)
-- [gw](https://github.com/Gwynsav)
+- [gw](https://github.com/sewergweller)
 
 **Feel free to use any code from any branch as long as you will credit me**
