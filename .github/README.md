@@ -89,7 +89,7 @@ This is the general structure of my dotfiles. I am using a beta feature called `
 **NO**. NixOS is hard.Don't be impatient and jump with the hype train. Nix files are complicated to make and can cause high brain damage. I recommend you to start with the [nix package manager](https://nixos.org/download.html#nix-install-linux) or using NixOS in a virtual machine instead of ripping apart your hard disk.
 
 #### I really wanna try out NixOS!
-If you that determined, here are some resources to start out
+If you are that determined, here are some resources to start out
   + [zero-to-nix](https://zero-to-nix.com)
   + [pills](https://nixos.org/guides/nix-pills/)
   + [nix-starter-config](https://github.com/Misterio77/nix-starter-config)
